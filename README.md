@@ -1,31 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
-coverY: 0
----
-
 # 📔 Introduction
 
-{% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
-{% endhint %}
-
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
-
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
-
-<details>
-
-<summary>How to use it?</summary>
-
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
-
-</details>
-
-<details>
-
-<summary>Contributing</summary>
-
-If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
-
-</details>
+**Bhagavad Gita** is a holy book for mankind. It is a part of the epic Mahabharata. It was told by **Lord Krishna** to the warrior **Arjun** who was confused on the war field with so many questions. This 700 verses book divided into 18 Chapters (Adhyays) is considered the blueprint to live life on the way of Dharma. It is the guideline for mankind in all ages as the principles explained in the book are timeless. Join us in this journey to explore the secrets of the Bhagavad Gita. Out of 700 shlokas, 574 shlokas are by Lord Krishna, 84 shlokas are by Arjun, 41 shlokas are by Sanjay & 1 shlok is by Dritrashtra.
